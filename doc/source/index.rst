@@ -6,9 +6,24 @@
 BalderHub
 =========
 
-Balder grand vision is to create an open-source, share space for testing-projects. This page gives an overview over all
-BalderHub packages that are contained in the `balder-dev GitHub group <https://github.com/balder-dev>`_. We hope this
-page makes it easier for developers to find and contribute to such open-source projects.
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   what_is_balderhub.rst
+   how_to_use_installable.rst
+   develop_own.rst
+   how_to_add_my.rst
+   Balder Documentation <https://docs.balder.dev>
+
+`Balder <https://docs.balder.dev/>`_  is a very powerful, universal and flexible python test framework that allows you
+to reuse a once written testcode as efficiently as possible for different but similar platforms/devices/applications.
+
+This page gives an overview over all BalderHub packages that are contained in the
+`balder-dev GitHub group <https://github.com/balder-dev>`_. If you are new to Balder, checkout
+`the documentation <https://docs.balder.dev/>`_.
+
+We hope this page makes it easier for developers to find and contribute to such open-source projects.
 
 .. note::
 
@@ -25,24 +40,8 @@ page makes it easier for developers to find and contribute to such open-source p
    `create an issue <https://github.com/balder-dev/hub.balder.dev>`_ or
    `start a new discussion <https://github.com/balder-dev/hub.balder.dev/discussions>`_.
 
-Existing projects
------------------
-
 .. toctree::
    :maxdepth: 2
+   :caption: Installable BalderHub Projects
 
    balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
-
-What are BalderHub packages?
-----------------------------
-
-BalderHub packages are normal python packages, that can easily be included into your specific project. This allows
-you to reuse scenario and feature implementation from people all around the world. You only need to provide your custom
-implementation that really depends on your device, but not the general test logic.
-
-
-The main idea of BalderHub packages is that you can access a wide range of different tests where a lot of clever minds
-has already think about. You simply need to import their scenarios, add the specific setup-device feature code for your
-device and go for it. Different mock functions, helper devices or
-complete testable implementations of remote devices (for example a dhcp server for dhcp-client tests) are often already
-provided in these BalderHub project. This helps you and your team to develop test a lot faster.
