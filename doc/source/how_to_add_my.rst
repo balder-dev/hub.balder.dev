@@ -1,5 +1,5 @@
 How To Add My BalderHub Package
 *******************************
 
-.. warning::
-    Please note: This section is currently under development and will be released shortly!
+If you want to add your BalderHub package to this site, just create a new issue in the
+`GitHub group <https://github.com/balder-dev/hub.balder.dev>`_.
