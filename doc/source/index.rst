@@ -45,3 +45,4 @@ We hope this page makes it easier for developers to find and contribute to such 
    :caption: Installable BalderHub Projects
 
    balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
+   balderhub-rfb <https://hub.balder.dev/projects/rfb>
