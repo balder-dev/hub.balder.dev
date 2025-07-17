@@ -44,5 +44,7 @@ We hope this page makes it easier for developers to find and contribute to such 
    :maxdepth: 2
    :caption: Installable BalderHub Projects
 
+   balderhub-url <https://hub.balder.dev/projects/url>
+   balderhub-unit <https://hub.balder.dev/projects/unit>
    balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
    balderhub-rfb <https://hub.balder.dev/projects/rfb>
