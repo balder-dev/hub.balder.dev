@@ -8,6 +8,9 @@ build:
 sphinx:
   fail_on_warning: true
 
+  # Path to your Sphinx configuration file.
+  configuration: doc/source/conf.py
+
 python:
   # Install our python package before building the docs
   install:
