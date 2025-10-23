@@ -35,15 +35,16 @@ This page gives an overview over all BalderHub packages that are contained in th
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Installable BalderHub Projects
+    :maxdepth: 2
+    :caption: Installable BalderHub Projects
 
-   balderhub-gui <https://hub.balder.dev/projects/gui>
-   balderhub-guicontrol <https://hub.balder.dev/projects/guicontrol>
-   balderhub-webdriver <https://hub.balder.dev/projects/webdriver>
-   balderhub-selenium <https://hub.balder.dev/projects/selenium>
-   balderhub-html <https://hub.balder.dev/projects/html>
-   balderhub-url <https://hub.balder.dev/projects/url>
-   balderhub-unit <https://hub.balder.dev/projects/unit>
-   balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
-   balderhub-rfb <https://hub.balder.dev/projects/rfb>
+    balderhub-html <https://hub.balder.dev/projects/html>
+    balderhub-auth <https://hub.balder.dev/projects/auth>
+    balderhub-gui <https://hub.balder.dev/projects/gui>
+    balderhub-guicontrol <https://hub.balder.dev/projects/guicontrol>
+    balderhub-webdriver <https://hub.balder.dev/projects/webdriver>
+    balderhub-selenium <https://hub.balder.dev/projects/selenium>
+    balderhub-url <https://hub.balder.dev/projects/url>
+    balderhub-unit <https://hub.balder.dev/projects/unit>
+    balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
+    balderhub-rfb <https://hub.balder.dev/projects/rfb>
