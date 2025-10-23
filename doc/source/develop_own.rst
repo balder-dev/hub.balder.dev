@@ -73,6 +73,49 @@ on the used data from above, the directory structure might look something like:
 
 .. code-block:: none
 
+    | - balderhub-fileops
+        | - docs
+            | - source
+                | - _static
+                    | - .gitkeep
+                | - conf.py
+                | - examples.rst
+                | - features.rst
+                | - index.rst
+                | - installation.rst
+                | - scenarios.rst
+                | - topic_intro.rst
+                | - utilities.rst
+            | - make.bat
+            | - Makefile
+        | - src
+            | - balderhub
+                | - fileops
+                    | - lib
+                        | - scenario_features
+                            | - __init__.py
+                        | - setup_features
+                            | - __init__.py
+                        | - utils
+                            | - __init__.py
+                        | - __init__.py
+                    | - scenarios
+                        | - __init__.py
+                    | - setups
+                        | - __init__.py
+                    | - __init__.py
+        | - tests
+            | - __init__.py
+            | - balderglob.py
+        | - .gitignore
+        | - .pylintrc
+        | - .readthedocs.yml
+        | - LICENSE
+        | - pyproject.toml
+        | - README.md
+        | - requirements.txt
+        | - setup.cfg
+        | - setup.py
 
 .. note::
     When adding new subdirectories, don't forget to add them to the ``setup.cfg`` file.
