@@ -42,7 +42,7 @@ This page gives an overview over all BalderHub packages that are contained in th
    balderhub-guicontrol <https://hub.balder.dev/projects/guicontrol>
    balderhub-webdriver <https://hub.balder.dev/projects/webdriver>
    balderhub-selenium <https://hub.balder.dev/projects/selenium>
-   balderhub-html <https://hub.balder.dev/projects/selenium>
+   balderhub-html <https://hub.balder.dev/projects/html>
    balderhub-url <https://hub.balder.dev/projects/url>
    balderhub-unit <https://hub.balder.dev/projects/unit>
    balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
