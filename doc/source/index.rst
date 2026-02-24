@@ -36,15 +36,40 @@ This page gives an overview over all BalderHub packages that are contained in th
 
 .. toctree::
     :maxdepth: 2
-    :caption: Installable BalderHub Projects
+    :caption: Installable Projects: GENERAL/MIXED
 
-    balderhub-html <https://hub.balder.dev/projects/html>
     balderhub-auth <https://hub.balder.dev/projects/auth>
-    balderhub-gui <https://hub.balder.dev/projects/gui>
-    balderhub-guicontrol <https://hub.balder.dev/projects/guicontrol>
-    balderhub-webdriver <https://hub.balder.dev/projects/webdriver>
-    balderhub-selenium <https://hub.balder.dev/projects/selenium>
-    balderhub-url <https://hub.balder.dev/projects/url>
-    balderhub-unit <https://hub.balder.dev/projects/unit>
+    balderhub-fileops <https://hub.balder.dev/projects/fileops>
+    balderhub-heart <https://hub.balder.dev/projects/heart>
+    balderhub-ble <https://hub.balder.dev/projects/ble>
     balderhub-snmpagent <https://hub.balder.dev/projects/snmpagent>
     balderhub-rfb <https://hub.balder.dev/projects/rfb>
+    balderhub-ant <https://hub.balder.dev/projects/ant>
+    balderhub-url <https://hub.balder.dev/projects/url>
+    balderhub-gui <https://hub.balder.dev/projects/gui>
+    balderhub-guicontrol <https://hub.balder.dev/projects/guicontrol>
+    balderhub-unit <https://hub.balder.dev/projects/unit>
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Installable Projects: WEB/APP
+
+    balderhub-selenium <https://hub.balder.dev/projects/selenium>
+    balderhub-html <https://hub.balder.dev/projects/html>
+    balderhub-textual <https://hub.balder.dev/projects/textual>
+    balderhub-nextcloud <https://hub.balder.dev/projects/nextcloud>
+    balderhub-webdriver <https://hub.balder.dev/projects/webdriver>
+
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Installable Projects: EMBEDDED
+
+    balderhub-scpi <https://hub.balder.dev/projects/scpi>
+    balderhub-powersupply <https://hub.balder.dev/projects/powersupply>
+    balderhub-waveform <https://hub.balder.dev/projects/waveform>
+    balderhub-waveformmonitor <https://hub.balder.dev/projects/waveformmonitor>
+    balderhub-waveformgenerator <https://hub.balder.dev/projects/waveformgenerator>
+    balderhub-battery <https://hub.balder.dev/projects/battery>
