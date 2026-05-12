@@ -12,14 +12,10 @@ The simplest way to create a BalderHub project is by creating it out of a templa
 `a own GitHub repository <https://github.com/balder-dev/template-balderhub>`_ that automatically creates a ready to
 publish BalderHub project for your specific topic.
 
-The simplest way to create a BalderHub project is by starting from a template. We've created
-`a GitHub repository <https://github.com/balder-dev/template-balderhub>` that automatically sets up a ready-to-publish
-BalderHub project tailored to your specific topic.
-
 Create your project
 ===================
 
-We recommend using [cookiecutter](https://github.com/cookiecutter/cookiecutter) to automatically fill in all the
+We recommend using `cookiecutter <https://github.com/cookiecutter/cookiecutter>`_ to automatically fill in all the
 relevant custom fields in the BalderHub project template.
 
 You can install it with pip:
