@@ -59,6 +59,7 @@ This page gives an overview over all BalderHub packages that are contained in th
 
     balderhub-selenium <https://hub.balder.dev/projects/selenium>
     balderhub-html <https://hub.balder.dev/projects/html>
+    balderhub-http <https://hub.balder.dev/projects/http>
     balderhub-textual <https://hub.balder.dev/projects/textual>
     balderhub-nextcloud <https://hub.balder.dev/projects/nextcloud>
     balderhub-webdriver <https://hub.balder.dev/projects/webdriver>
