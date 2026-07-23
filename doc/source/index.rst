@@ -41,6 +41,7 @@ This page gives an overview over all BalderHub packages that are contained in th
     balderhub-auth <https://hub.balder.dev/projects/auth>
     balderhub-crud <https://hub.balder.dev/projects/crud>
     balderhub-data <https://hub.balder.dev/projects/data>
+    balderhub-rest <https://hub.balder.dev/projects/rest>
     balderhub-fileops <https://hub.balder.dev/projects/fileops>
     balderhub-heart <https://hub.balder.dev/projects/heart>
     balderhub-ble <https://hub.balder.dev/projects/ble>
